@@ -1,0 +1,8 @@
+D:\MyTestProjects\MyAuthWS\MyAuthWS.Tests\bin\Debug\MyAuthWS.Tests.dll
+D:\MyTestProjects\MyAuthWS\MyAuthWS.Tests\bin\Debug\MyAuthWS.Tests.pdb
+D:\MyTestProjects\MyAuthWS\MyAuthWS.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\MyTestProjects\MyAuthWS\MyAuthWS.Tests\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\MyTestProjects\MyAuthWS\MyAuthWS.Tests\obj\Debug\MyAuthWS.Tests.csprojResolveAssemblyReference.cache
+D:\MyTestProjects\MyAuthWS\MyAuthWS.Tests\obj\Debug\MyAuthWS.Tests.dll
+D:\MyTestProjects\MyAuthWS\MyAuthWS.Tests\obj\Debug\MyAuthWS.Tests.pdb
+D:\MyTestProjects\MyAuthWS\MyAuthWS.Tests\bin\Debug\MyAuthWS.Tests.dll.config
